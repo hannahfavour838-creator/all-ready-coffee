@@ -23,8 +23,8 @@ runs migrations and seeds it with a full menu, 65 customers, ~1,000 orders acros
 
 | Account | Email | Password |
 | --- | --- | --- |
-| Owner (admin) | `owner@allreadycoffee.com` | `AllReady!Owner2026` |
-| Customer | `demo@allreadycoffee.com` | `Espresso!Demo2026` |
+| Owner (admin) | `owner@allreadycoffee.com` | Password stored securely |
+| Customer | `demo@allreadycoffee.com` | Password stored securely |
 
 Demo card: **4242 4242 4242 4242**, any future expiry, any CVC. Card `4000 0000 0000 0002` simulates a decline.
 Promo codes: `WELCOME15`, `READY5`.
